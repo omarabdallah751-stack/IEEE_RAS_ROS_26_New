@@ -1,0 +1,11 @@
+limit = int(input("Enter a number: "))
+
+total_sum = 0
+calculation_steps = []
+
+for number in range(2, limit + 1, 2):
+    total_sum += number             
+    calculation_steps.append(str(number))  
+
+Numbersbesummed = " + ".join(calculation_steps)
+print(f"The sum is {total_sum} ({Numbersbesummed})")

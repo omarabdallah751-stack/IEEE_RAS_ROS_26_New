@@ -1,0 +1,33 @@
+def main():
+    largest = None
+    smallest = None
+
+    print("Enter numbers (enter -1 to stop):")
+
+    while True:
+        try:
+            num = float(input("=> "))
+            
+            if num == -1:
+                break
+
+            if largest is None or smallest is None:
+                largest = num
+                smallest = num
+            else:
+                if num > largest:
+                    largest = num
+                if num < smallest:
+                    smallest = num
+        
+        except ValueError:
+            print("Please enter a valid number.")
+
+    if largest is not None:
+        print(f"Output: {int(largest) if largest.is_integer() else largest} "
+              f"{int(smallest) if smallest.is_integer() else smallest}")
+    else:
+        print("No numbers were entered.")
+
+
+main()
