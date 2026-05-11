@@ -1,0 +1,9 @@
+Node:each node responsible for a specified modular purpose like a wheel motor and can send and receive data from another node
+
+Topic:act like busses between nodes which take the data from the publisher node to the subscriber node
+
+Service:the same as topics but, with a different method of communicating with(call-and-response model) but when only the service client call request "the data don't be given as continual updates"
+
+
+خلينا زي ما جربنا في ال "Turtle" وهي تعتبر "Node" وال "Teleop" تعتبر هي كمان node وكان عندنا كذا "topic" زي ال "cmd_vel" وده اللي كان بيبقي حلقة وصل بين الاتنين "nodes" اللي معانا واللي بيوصل الداتا بينهم
+اما لو في service "ومبصتش بصراحه هل في اول لا" خلينا نقول ان ال "Teleop" هتبقي هي ال "Service Client" مثلا و هتطلب ريكويست من ال "turtle" عشان تديها الأمر المعين اللي ال user بيطلبه واللي في نفس الوقت ال "turtle" هتبقي ال "service server" اللي هتعمل response للأمر ده          "مثال بس والله عشان ميبقاش عبث 0_0"
