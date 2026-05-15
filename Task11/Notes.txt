@@ -1,0 +1,4 @@
+عملنا متغيرات في ال Subscribtion Node
+اللي هي بتوصف ال Other_x, Other_y, Other_pri اللي هيتحط فيها القيم اللي جاية من ال Publisher Node بحيث قيمهم الأولية بتساوي None لحد ما افتح ال Terminal الخاص بال Subscriber وقيمهم تبدأ تتغير فعلا من الداتا اللي جاية من ال Publisher
+وبعدها if condition مش هتعمل Execute او تطبع ال Clear, Danger غير لما تكون قيمهم بقيم غير ال None ساعتها يبدأ Check_traffic ويقارن المسافه بال Priority
+
