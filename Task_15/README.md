@@ -1,5 +1,6 @@
 <img width="1920" height="1080" alt="Screenshot from 2026-07-10 19-48-26" src="https://github.com/user-attachments/assets/b870b40c-5ca8-4434-a2f7-1497b3be8b30" />
 
+<img width="1920" height="1080" alt="Screenshot from 2026-07-10 22-22-34" src="https://github.com/user-attachments/assets/fe9ce10a-657b-4afb-8760-a114669eb77f" />
 
 
 <img width="1920" height="1080" alt="Screenshot from 2026-07-10 19-48-59" src="https://github.com/user-attachments/assets/244eec26-e84e-41f9-acc9-aa18f39212df" />
