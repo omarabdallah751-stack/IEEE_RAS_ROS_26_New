@@ -13,3 +13,9 @@
 <img width="1920" height="1080" alt="Screenshot from 2026-07-10 21-19-29" src="https://github.com/user-attachments/assets/addc0342-b715-4a24-babb-ba28fc695dda" />
 <img width="1920" height="1080" alt="Screenshot from 2026-07-10 21-18-05" src="https://github.com/user-attachments/assets/48aa90f1-b1d4-401a-a192-4884c3f8c4c9" />
 <img width="1920" height="1080" alt="Screenshot from 2026-07-10 21-18-00" src="https://github.com/user-attachments/assets/6829e43f-290f-44de-9718-c10e105d0d16" />
+
+#
+#
+#
+#After Midifying
+<img width="1920" height="1080" alt="Screenshot from 2026-07-10 21-28-02" src="https://github.com/user-attachments/assets/d2e1939c-e772-4016-aa71-9ab6cf3c1189" />
